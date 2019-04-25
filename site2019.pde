@@ -7,5 +7,5 @@ void setup ()
 
 void draw ()
 {
-  
+  zoios(60,60, 100);
 }
