@@ -7,3 +7,8 @@ void zoios(int x, int y, int tam) {
   ellipse((x)+tam+(tam/10)+x/2, y, tam/4, tam/5);
   
 }
+
+void nariz (int x, int y, int tam){
+  fill(210, 40, 170);
+  ellipse(x+x, y+y+y/2, tam/4, tam/2);
+}
