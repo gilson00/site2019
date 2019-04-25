@@ -8,6 +8,6 @@ void setup ()
 void draw ()
 {
   zoios(60,60, 100);
-  //nariz(60,60, 100);
-  //DesenhaBoca(100,300,80);
+  nariz(60,60, 100);
+  DesenhaBoca(120,180,80);
 }
