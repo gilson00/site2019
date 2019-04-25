@@ -8,4 +8,5 @@ void setup ()
 void draw ()
 {
   zoios(60,60, 100);
+  DesenhaBoca(100,300,80);
 }
